@@ -5,9 +5,9 @@
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e malhar.
 - ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
-- 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e AngularJS), conhecimento intermediário na linguagem Python.
-- 🏆 Principais experiências: Bolsista de Inovação Tecnológica na Universidade Federal da BAhia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8).
-- 😫 Ocupação do tempo: Estudos de Python, JAVA e da faculdade.
+- 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e AngularJS), conhecimento em desenvolvimento Backend ( Python e Java, Spring Boot), familiarizado com Banco de dados (especialmente NoSQL), conhecimento em ElasticSearch, Json, arquiteturas da internet (HTTP e Cliente-Servidor) .
+- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da BAhia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8), Estágio em Engenharia de Dados na CONSISTE.
+- 😫 Ocupação do tempo: Estudos em Python, JAVA e faculdade.
 
 
 <div style="display: inline_block"><br>
