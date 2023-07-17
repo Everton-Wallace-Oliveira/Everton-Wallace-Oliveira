@@ -1,7 +1,7 @@
 ### Olá, mundo! Me chamo Everton Wallace.👋
 
 - 🌱 Estudante de técnicas para análise de dados, processos de produção de sistemas, processos de testes de sistemas e, temas afins.
-- 👯 Estudo Ciências e Tecnologia na Universidade Federal da Bahia.
+- 👯Atualmente atuo como estagiário em engenharia de dados na CONSISTE.
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e malhar.
 - ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
@@ -18,7 +18,8 @@
   <img align="center" alt="Everton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div> 
-    ## Coneça minhas redes:
+  ## Coneça minhas redes:
+  
   <a href="https://instagram.com/everton_wallace_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:everton542@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/everton-oliveira-b02a85150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
