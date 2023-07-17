@@ -7,11 +7,12 @@
 - ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
 - 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e AngularJS), conhecimento intermediário na linguagem Python.
 - 🏆 Principais experiências: Bolsista de Inovação Tecnológica na Universidade Federal da BAhia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8).
-- 😫 Ocupação do tempo: Estudos de Python e da faculdade.
+- 😫 Ocupação do tempo: Estudos de Python, JAVA e da faculdade.
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Everton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Everton-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Everton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Everton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
