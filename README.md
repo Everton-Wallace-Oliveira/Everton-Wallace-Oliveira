@@ -1,12 +1,12 @@
 ### Olá, mundo! Me chamo Everton Wallace.👋
 
 - 🌱 Estudante de técnicas para análise de dados, processos de produção de sistemas, processos de testes de sistemas e, temas afins.
-- 👯Atualmente atuo como estagiário em engenharia de dados na CONSISTE.
+- 👯Atualmente atuo como estagiário full stack na CONSISTE.
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler, projetar e malhar.
 - ✍  Objetivo profissional: Analista de Desenvolvimento de Sistemas sênior.
 - 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript e AngularJS), conhecimento em desenvolvimento Backend ( Python e Java, Spring Boot), familiarizado com Banco de dados (especialmente NoSQL), conhecimento em ElasticSearch, Json, arquiteturas da internet (HTTP e Cliente-Servidor) .
-- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da BAhia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8), Estágio em Engenharia de Dados na CONSISTE.
+- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da BAhia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8), Estágio full stack na CONSISTE.
 - 😫 Ocupação do tempo: Estudos em Python, JAVA e faculdade.
 
 
