@@ -5,7 +5,7 @@
 - ⚡ Hobbie: programar, ler, projetar e malhar.
 - ✍  Objetivo profissional: Engenheiro de Software.
 - 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript), conhecimento em desenvolvimento Backend ( Python e flask, Java e Spring Boot, Node.Js), familiarizado com Banco de dados (especialmente NoSQL), conhecimento em ElasticSearch, Json, arquiteturas da internet (HTTP e Cliente-Servidor) .
-- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da Bahia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8), dev full stack na CONSISTE.
+- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da Bahia(atuando no desenvolvimento de máquinas do tipo extrusora voltadas a reciclagem de plastico e manutenção de computadores), Professor de Robótica(Lecionei robótica básica  e lógica de programação para estudantes do grupo 6 ao 8), Desenvolverdor Back end na CONSISTE( Atuei como desenvolvedor back-end com o desenvolvimento e manutenção de APIs utilizando Java 8 com Spring Boot e Python com Flask para atender requisitos de negócio. Trabalhei também com implementação de soluções de busca e análise de dados utilizando Elasticsearch como banco de dados NoSQL. Além de acesso contante em sistema linux para agentamento de tarefas via crontab, verificação de containers e serviços do docker).
 - 😫 Ocupação do tempo: Estudos em Python, JAVA, Node.Js e faculdade.
 
 <div align="center">
