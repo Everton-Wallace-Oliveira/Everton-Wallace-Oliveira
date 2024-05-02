@@ -9,9 +9,9 @@
 - 😫 Ocupação do tempo: Estudos em Python, JAVA, Node.Js e faculdade.
 
 <div align="center">
-<a href="https://github.com/xEvertonWallace">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xEvertonWallace&show_icons=true&theme=dracula&include_all_commits
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEvertonWallace&layout=compact&langs_count=7&theme=dra
+  <a href="https://github.com/xEvertonWallace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xEvertonWallace&show_icons=true&theme=dracula&include_all_commits
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEvertonWallace&layout=compact&langs_count=7&theme=dra
 </div>
   
 <div style="display: inline_block"><br>
