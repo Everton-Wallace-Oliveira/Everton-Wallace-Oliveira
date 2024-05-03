@@ -9,9 +9,9 @@
 - 😫 Ocupação do tempo: Estudos em Python, JAVA, Node.Js, Inglês e faculdade.
 
 <div align="center">
-  <a href="https://github.com/xEvertonWallace">
- <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=xEvertonWallace&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xEvertonWallace&layout=compact&langs_count=7&theme=react" />
+  <a href="https://github.com/Everton-Wallace-Oliveira">
+ <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Everton-Wallace-Oliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Wallace-Oliveira&layout=compact&langs_count=7&theme=react" />
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>  
 <br>
