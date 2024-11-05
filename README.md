@@ -4,9 +4,9 @@
 - 😄 Pronomes: ele/dele.
 - ⚡ Hobbie: programar, ler e malhar.
 - ✍  Objetivo profissional: Engenheiro de Software.
-- 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento WEB (HTML5, CSS3, JavaScript), conhecimento em desenvolvimento Backend ( Python e flask, Java e Spring Boot, Node.Js), familiarizado com Banco de dados (especialmente NoSQL), conhecimento em ElasticSearch, Json, arquiteturas da internet (HTTP e Cliente-Servidor) .
-- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da Bahia, Professor de Robótica, Desenvolverdor Back end na CONSISTE.
-- 😫 Ocupação do tempo: Estudos em Python, JAVA, Node.Js, Inglês e faculdade.
+- 🎍 Principais conhecimentos: Pacote Office (incluindo Excel, Word e PowerPoint), conhecimentos em desenvolvimento frontend (Angular e React), conhecimento em desenvolvimento Backend ( Python e flask, Java e Spring Boot, Node.Js, .Net com C#), familiarizado com Banco de dados NoSQL e SQL, Json, arquiteturas da internet (HTTP e Cliente-Servidor) .
+- 🏆 Principais experiências:Bolsista de Inovação Tecnológica na Universidade Federal da Bahia: Desenvolvedor FullStack, Professor de Robótica, Desenvolverdor Back end na CONSISTE, Residencia em software na CEPEDI.
+- 😫 Ocupação do tempo: Estudos em JAVA, Angular, C#, React Inglês e faculdade.
 
 <div align="center">
   <a href="https://github.com/Everton-Wallace-Oliveira">
